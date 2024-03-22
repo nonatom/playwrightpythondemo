@@ -1,0 +1,9 @@
+# Virtual environment
+.venv
+#
+pytest.ini
+# Scratch Pad
+ui_tests/test_scratchpad.py
+models/scratchpad_page.py
+#
+.idea
