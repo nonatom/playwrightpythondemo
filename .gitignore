@@ -7,3 +7,6 @@ ui_tests/test_scratchpad.py
 models/scratchpad_page.py
 #
 .idea
+# caches
+__pycache__
+.pytest-caches
